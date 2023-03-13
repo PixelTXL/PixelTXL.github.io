@@ -18,7 +18,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick.svg);
+    background: url(stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -49,7 +49,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(abxy.svg);
+    background: url(abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -86,7 +86,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrant.svg);
+    background: url(quadrant.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -115,7 +115,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(start-select.svg);
+    background: url(start-select.png);
     width: 33px;
     height: 33px;
     opacity: 0;
